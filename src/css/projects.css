@@ -1,0 +1,18 @@
+
+.height-con{
+    height: 550px;
+}
+
+.img-c{
+    color:black;
+}
+
+@media (max-width:500px){
+    .img-sm{
+        height: 350px;
+    }
+
+    .small{
+        width: 450px;
+    }
+}

@@ -1,0 +1,71 @@
+.style{
+    font-size:large
+}
+.height{
+    height:600px;
+}
+
+.orange{
+    color: orange;
+}
+
+.blue{
+    color:blue;
+}
+.red{
+    color:red;
+}
+.green{
+    color:green;
+}
+
+.yellow{
+    color:darkorange;
+}
+
+.skyblue{
+    color:skyblue;
+}
+
+.spacing{
+    line-height: 40px;
+}
+
+.div-h{
+    height:20px;
+}
+.space{
+    margin: 5px;
+  }
+
+  .gradient{
+    background: -webkit-linear-gradient(#6600FF, #0099FF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .res{
+      font-size: x-large;
+  }
+.wt2{
+    width:200px;
+}
+.line2{
+    text-align: justify;
+}
+
+@media (max-width:600px){
+    .line{
+        line-height: 25px;
+        text-align: left;
+        text-align: justify;
+    }
+    .wt{
+        width:200px;
+    }
+
+    .img{
+        margin-top:20px;
+    }
+}
+

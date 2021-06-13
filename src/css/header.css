@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+*{
+  font-family: 'Lemon', cursive;
+}
+
+.gradient{
+  background: -webkit-linear-gradient(#6600FF, #0099FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.right{
+  text-align: right;
+}
+.logo-name{
+  margin-top:-65px;
+  margin-left: 70px;
+  font-size: xx-large;
+  text-decoration: none;
+}
+.nav-background{
+  background-color: white;
+}
+.nav-hover:hover{
+  color: #0099FF;
+}
+.black{
+  background: -webkit-linear-gradient(black,black);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.space{
+  margin: 5px;
+}
+
+.btn-outline-info{
+  color:black;
+}

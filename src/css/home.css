@@ -1,0 +1,34 @@
+
+.margin-logo{
+    margin-top: 90px;
+}
+
+.space{
+    margin: 5px;
+  }
+
+  .row-width{
+      height:600px;
+  }
+
+  .back{
+      background: url(../images/cover.png) no-repeat center center fixed;
+      background-size: cover;
+  }
+  
+  @media (max-width:500px){
+     .margin-logo{
+         margin-top: 30px;
+        }
+
+      .img{
+          width:300px;
+          height:290px;
+      }  
+  }
+
+  .decoration{
+      text-decoration: none;
+      color:black;  
+  }
+
